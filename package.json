@@ -1,0 +1,26 @@
+{
+  "name": "gabriel",
+  "version": "0.0.1",
+  "description": "Page objects abstraction layer on top of the Protractor",
+  "keywords": [
+      "protractor",
+      "abstraction",
+      "page",
+      "object",
+      "test"
+  ],
+  "main": "index.js",
+  "author": {
+    "name": "Petr Nevyhoštěný",
+    "email": "petr.nevyhosteny@gmail.com"
+  },
+  "homepage": "https://github.com/nevyk/gabriel",
+  "repository":{
+      "type": "git",
+      "url": "https://github.com/nevyk/gabriel"
+  },
+  "bugs": "https://github.com/nevyk/gabriel/issues",
+  "dependencies": {
+    "protractor": "^1.8.0"
+  }
+}
